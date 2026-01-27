@@ -12,9 +12,9 @@ Results are generated in real time and reflect the current market activity.
 + Coins are ranked based on current market activity to identify the top 7 trending assets.
 
 # Getting Started
-1. Prerequisites
-VS Code (Version 1.96.0 or higher) Download
-Ocean Protocol VS Code Extension (Install from the Marketplace)
+1. Requirements
+VS Code (Version 1.96.0 or higher) [Download](https://code.visualstudio.com/)
+Ocean Protocol VS Code Extension [Install from the Marketplace](https://marketplace.visualstudio.com/items?itemName=OceanProtocol.ocean-protocol-vscode-extension&ssr=false#overview)
 
 2. Installation
 # Expected Output
