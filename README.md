@@ -5,8 +5,8 @@ Results are generated in real time and reflect the current market activity.
 
 # How it Works
 
-+The algorithm runs directly inside VS Code using the Ocean extension.
++ The algorithm runs directly inside VS Code using the Ocean extension.
 
-+It retrieves live market data from a cryptocurrency API.
++ It retrieves live market data from a cryptocurrency API.
 
-+Coins are ranked based on current market activity to identify the top 7 trending assets.
++ Coins are ranked based on current market activity to identify the top 7 trending assets.
