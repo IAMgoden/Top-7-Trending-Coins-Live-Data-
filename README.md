@@ -11,6 +11,12 @@ Results are generated in real time and reflect the current market activity.
 
 + Coins are ranked based on current market activity to identify the top 7 trending assets.
 
+# Getting Started
+1. Prerequisites
+VS Code (Version 1.96.0 or higher) Download
+Ocean Protocol VS Code Extension (Install from the Marketplace)
+
+2. Installation
 # Expected Output
 
 When you run the script, you should see a ranked list of the top 7 trending cryptocurrencies, showing:
@@ -28,6 +34,3 @@ Top 7 Trending Coins (Live Data) - 2026-01-27 14:05:23
 3. Cardano (ADA) - Trend Score: 1.95%
 ...
 Results are live and may vary each time you run the algorithm.
-
-
-# Getting Started
