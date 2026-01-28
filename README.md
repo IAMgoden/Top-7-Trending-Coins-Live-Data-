@@ -18,7 +18,7 @@ VS Code (Version 1.96.0 or higher) [Download](https://code.visualstudio.com/).
 Ocean Protocol VS Code Extension [Install from the Marketplace](https://marketplace.visualstudio.com/items?itemName=OceanProtocol.ocean-protocol-vscode-extension&ssr=false#overview).
 
 # 2. Installation
-# Option A: Download as ZIP (Easier)
+#Option A: Download as ZIP (Easier)
 
 1. Go to this link.
 2. Click the green <> Code button.
