@@ -32,8 +32,8 @@ Results are generated in real time and reflect the current market activity.
 git clone https://github.com/IAMgoden/Top-7-Trending-Coins-Live-Data-.git
 
 # 3. Run a Job (algorithm)
-+ Open the file algo.py.
-+ Top 7 Trending Coins (Live Data)
++ In you VS Code Open the file (algo.py).
++ You will see the algo for Top 7 Trending Coins (Live Data)
 + Open the Ocean Protocol Extension panel in the sidebar.
 + Click Start FREE Compute Job.
 
@@ -41,10 +41,9 @@ git clone https://github.com/IAMgoden/Top-7-Trending-Coins-Live-Data-.git
 When you run the script, you should see a ranked list of the top 7 trending cryptocurrencies, showing:
 
 + Coin name
-
 + Symbol
-
 + Trend score (e.g., 24-hour price change)
+  
 # Example output 
 Top 7 Trending Coins (Live Data) - 2026-01-27 14:05:23
 --------------------------------------------------
