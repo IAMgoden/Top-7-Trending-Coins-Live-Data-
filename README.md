@@ -20,7 +20,7 @@ Results are generated in real time and reflect the current market activity.
 # 2. Installation
  Option A: Download as ZIP (Easier)
 
-1. Go to this link.
+1. Go to [this link.](https://github.com/IAMgoden/Top-7-Trending-Coins-Live-Data-.git)
 2. Click the green <> Code button.
 3. Select Download ZIP.
 4. Unzip the folder.
@@ -29,7 +29,7 @@ Results are generated in real time and reflect the current market activity.
 
  Option B: Using Git (Recommended) Open your terminal and run:
 
-git clone https://github.com/stip1101/ocean-vs-code-algo-examples.git
+git clone https://github.com/IAMgoden/Top-7-Trending-Coins-Live-Data-.git
 
 # 3. Run a Job (algorithm)
 + Open the file algo.py.
