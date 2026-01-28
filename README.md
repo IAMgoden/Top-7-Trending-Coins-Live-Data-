@@ -20,12 +20,12 @@ Ocean Protocol VS Code Extension [Install from the Marketplace](https://marketpl
 2. Installation
 Option A: Download as ZIP (Easier)
 
-Go to this link.
-Click the green <> Code button.
-Select Download ZIP.
-Unzip the folder.
-Open the folder in VS Code.
-You should see the Ocean Protocol icon in your Activity Bar. 
+1. Go to this link.
+2. Click the green <> Code button.
+3. Select Download ZIP.
+4. Unzip the folder.
+5. Open the folder in VS Code.
+6. You should see the Ocean Protocol icon in your Activity Bar. 
 
 Option B: Using Git (Recommended) Open your terminal and run:
 
