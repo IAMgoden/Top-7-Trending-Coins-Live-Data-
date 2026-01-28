@@ -31,7 +31,7 @@ Results are generated in real time and reflect the current market activity.
 
 git clone https://github.com/stip1101/ocean-vs-code-algo-examples.git
 
-# 3. How to Run a Job
+# 3. Run a Job (algorithm)
 + Open the file algo.py.
 + Top 7 Trending Coins (Live Data)
 + Open the Ocean Protocol Extension panel in the sidebar.
