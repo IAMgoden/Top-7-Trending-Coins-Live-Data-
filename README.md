@@ -28,9 +28,9 @@ Results are generated in real time and reflect the current market activity.
 6. You should see the Ocean Protocol icon in your Activity Bar. 
 
  Option B: Using Git (Recommended) Open your terminal and run:
-
+```
 git clone https://github.com/IAMgoden/Top-7-Trending-Coins-Live-Data-.git
-
+```
 # 3. Run a Job (algorithm)
 + In you VS Code Open the file (algo.py).
 + You will see the algo for Top 7 Trending Coins (Live Data)
